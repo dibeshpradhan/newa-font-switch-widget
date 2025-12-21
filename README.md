@@ -1,4 +1,4 @@
-# Font Switcher Widget ([Demo](https://callijatra.github.io/newa-font-switch-widget))
+# Font Switcher Widget ([Demo](https://callijatra.github.io/newa-font-switch-widget/demo))
 
 A standalone, easy-to-distribute font switcher widget that allows users to switch between Original, Ranjana (Nithya Ranjana), and Noto Sans Newa fonts on any webpage.
 
