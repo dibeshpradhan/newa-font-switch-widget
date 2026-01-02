@@ -13,8 +13,8 @@
 @font-face {
   font-family: 'NewaAkha';
   src:  url('https://cdn.staticdelivr.com/gh/dibeshpradhan/newa-font-switch-widget/main/demo/font/NEPAL%20AAKHA.otf') format('otf'),
-        url('https://cdn.staticdelivr.com/gh/callijatra/nithya-ranjana-webfont1/main/fonts/NithyaRanjanaDU-Regular.woff2') format('woff2'),
-        url('https://github.com/dibeshpradhan/newa-font-switch-widget/blob/main/demo/font/NEPAL%20AAKHA.woff') format('woff');
+        url('hhttps://cdn.staticdelivr.com/gh/dibeshpradhan/newa-font-switch-widget/main/demo/font/NEPAL%20AAKHA.woff2') format('woff2'),
+        url('https://cdn.staticdelivr.com/gh/dibeshpradhan/newa-font-switch-widget/main/demo/font/NEPAL%20AAKHA.woff') format('woff');
   font-weight: 100;
   font-display: swap;
 }
@@ -96,7 +96,7 @@ url('https://fonts.googleapis.com/css2?family=Noto+Sans+Newa&display=swap');
 }
 
 .font-switcher-newa {
-  font-family: 'Noto Sans Newa', sans-serif !important;
+  font-family: 'NewaAkha', sans-serif !important;
 }
 
 /* Responsive adjustments */
