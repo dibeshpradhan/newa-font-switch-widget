@@ -27,8 +27,8 @@
         family: 'NithyaRanjana, sans-serif'
       },
       newa: {
-        name: 'Noto Sans Newa',
-        family: '"Noto Sans Newa", sans-serif'
+        name: 'Newa Aakha',
+        family: '"NewaAkha", sans-serif'
       }
     },
 
