@@ -20,7 +20,7 @@
 }
 @font-face{
 font-family: 'Noto Sans Newa';
-url('https://fonts.googleapis.com/css2?family=Noto+Sans+Newa&display=swap');
+src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Newa&display=swap');
 }
 
 /* Widget container - base styles */
